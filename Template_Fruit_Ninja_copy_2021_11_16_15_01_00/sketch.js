@@ -14,7 +14,7 @@ function preload(){
   fruta2 = loadImage("fruit2.png");
   fruta3 = loadImage("fruit3.png");
   fruta4 = loadImage("fruit4.png");
-  imgFimdeJogo = loadImage("gameover.png")
+  imgFimdeJogo = loadImage("gameover.png");
 
   //som de carregamento aqui
 }
